@@ -1,0 +1,5 @@
+This code requires:
+import google_images_download
+
+this code was copied from:
+https://google-images-download.readthedocs.io/en/latest/examples.html#
